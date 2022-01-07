@@ -10,7 +10,7 @@
 - Great design and color combination.
 
 <p>Technology and Packages</P>
-- HTML.
+- HTML
 - CSS
 - JavaScript
 - React
